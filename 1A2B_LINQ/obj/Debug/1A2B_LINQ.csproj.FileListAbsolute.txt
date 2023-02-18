@@ -1,0 +1,8 @@
+E:\跨域黑客\C#\1A2B_LINQ\1A2B_LINQ\bin\Debug\1A2B_LINQ.exe.config
+E:\跨域黑客\C#\1A2B_LINQ\1A2B_LINQ\bin\Debug\1A2B_LINQ.exe
+E:\跨域黑客\C#\1A2B_LINQ\1A2B_LINQ\bin\Debug\1A2B_LINQ.pdb
+E:\跨域黑客\C#\1A2B_LINQ\1A2B_LINQ\obj\Debug\1A2B_LINQ.csproj.AssemblyReference.cache
+E:\跨域黑客\C#\1A2B_LINQ\1A2B_LINQ\obj\Debug\1A2B_LINQ.csproj.SuggestedBindingRedirects.cache
+E:\跨域黑客\C#\1A2B_LINQ\1A2B_LINQ\obj\Debug\1A2B_LINQ.csproj.CoreCompileInputs.cache
+E:\跨域黑客\C#\1A2B_LINQ\1A2B_LINQ\obj\Debug\1A2B_LINQ.exe
+E:\跨域黑客\C#\1A2B_LINQ\1A2B_LINQ\obj\Debug\1A2B_LINQ.pdb
